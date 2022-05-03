@@ -1,0 +1,15 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "* Установка [NodeJS](https://nodejs.org/en/)  * Создаём приложение при помощи `npm init -y` * Работаем с файловой системой * Тестируем скрипт",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "star": "ndoe index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
